@@ -4,3 +4,5 @@ sass:
     - node_modules
 exclude:
   - node_modules
+plugins:
+  - jekyll-seo-tag
